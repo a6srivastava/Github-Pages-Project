@@ -3,7 +3,7 @@
 
 Hello! My name is Abhimanyu Srivastava and I'm a Computer Science student. Welcome to my GitHub user page!
 
-![Profile Picture](./profile_picture.jpg)
+![Profile Picture](./screenshots/profile_picture.jpg)
 
 ## Table of Contents
 
