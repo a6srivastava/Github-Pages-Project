@@ -22,9 +22,9 @@ Hi, I'm Abhimanyu Srivastava, currently pursuing my  Computer Science Degree. I 
 
 **Programming Languages:**
 
-- Python
-- Java
-- C/C++
+- [x] Python
+- [x] Java
+- [x] C/C++
 
 **Tools and Technologies:**
 
