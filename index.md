@@ -3,7 +3,7 @@
 
 Hello! My name is Abhimanyu Srivastava and I'm a Computer Science student. Welcome to my GitHub user page!
 
-![Profile Picture](./profile_picture.jpg)
+![Profile Picture](./screenshots/profile_picture.jpg)
 
 ## Table of Contents
 
@@ -21,11 +21,11 @@ Hi, I'm Abhimanyu Srivastava, currently pursuing my  Computer Science Degree. I 
 ## Skills
 
 **Programming Languages:**
-
+```
 - Python
 - Java
 - C/C++
-
+```
 **Tools and Technologies:**
 
 - Git
